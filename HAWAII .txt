@@ -884,16 +884,16 @@
       "confPrestige": "65",
       "confName": "MAC",
       "confTeams": [
-        {
-          "name": "Akron",
-          "state": "Ohio",
-          "abbreviation": "AKR",
+{
+          "name": "Hawaii",
+          "state": "Hawaii",
+          "abbreviation": "HAWI",
           "rival": [
-            "KENT"
+            "BSU"
           ],
           "rivalryNames": {},
-          "prestige": "65",
-          "hexColor": "#041E42"
+          "prestige": "95",
+          "hexColor": "#024731"
         },
         {
           "name": "Ball State",
@@ -1271,23 +1271,16 @@
           "hexColor": "#DB0032"
         },
         {
-          "name": "Hawaii",
-          "state": "Hawaii",
-          "abbreviation": "HAWI",
+          "name": "Akron",
+          "state": "Ohio",
+          "abbreviation": "AKR",
           "rival": [
-            "BSU"
+            "KENT"
           ],
           "rivalryNames": {},
-          "prestige": "95",
-          "hexColor": "#024731"
+          "prestige": "65",
+          "hexColor": "#041E42"
         },
-        {
-          "name": "Nevada",
-          "state": "Nevada",
-          "abbreviation": "NEV",
-          "rival": [
-            "USU"
-          ],
           "rivalryNames": {},
           "prestige": "65",
           "hexColor": "#003366"
