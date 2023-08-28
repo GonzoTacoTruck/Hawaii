@@ -352,15 +352,15 @@
           "hexColor": "#7BAFD4"
         },
         {
-          "name": "North Carolina State",
-          "state": "North Carolina",
-          "abbreviation": "NCST",
+          "name": "Hawaii",
+          "state": "Hawaii",
+          "abbreviation": "HAWI",
           "rival": [
-            "WFU"
+            "CLEM"
           ],
           "rivalryNames": {},
-          "prestige": "80",
-          "hexColor": "#CC0000"
+          "prestige": "95",
+          "hexColor": "#024731"
         },
         {
           "name": "Virginia",
@@ -1271,14 +1271,14 @@
           "hexColor": "#DB0032"
         },
         {
-          "name": "Hawaii",
-          "state": "Hawaii",
-          "abbreviation": "HAWI",
+          "name": "North Carolina State",
+          "state": "North Carolina",
+          "abbreviation": "NCST",
           "rival": [
             "BSU"
           ],
           "rivalryNames": {},
-          "prestige": "95",
+          "prestige": "70",
           "hexColor": "#024731"
         },
         {
