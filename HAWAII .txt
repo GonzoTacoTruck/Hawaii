@@ -188,7 +188,22 @@
             "OSU"
           ],
           "rivalryNames": {
-            "OSU": "The Game"
+            "OSU": "The Game",
+					"rival": [
+            "MSU"
+          ],
+          "rivalryNames": {
+            "MSU": "The Governor of Michigan Trophy",
+					"rival": [
+            "MINN"
+          ],
+          "rivalryNames": {
+            "MINN": "Little Brown Jug",
+					"rival": [
+            "ND"
+          ],
+          "rivalryNames": {
+            "ND": "",
           },
           "prestige": "95",
           "hexColor": "#00274C"
@@ -198,7 +213,12 @@
           "state": "Michigan",
           "abbreviation": "MSU",
           "rival": [
-            "PSU"
+            "PSU",
+					"rival": [
+            "UM"
+          ],
+          "rivalryNames": {
+            "UM": "The Governor of Michigan Trophy"
           ],
           "rivalryNames": {},
           "prestige": "89",
@@ -212,7 +232,12 @@
             "UWM"
           ],
           "rivalryNames": {
-            "UWM": "The Axe Game"
+            "UWM": "The Axe Game",
+					"rival": [
+            "UM"
+          ],
+          "rivalryNames": {
+            "UM": "The Little Brown Jug"
           },
           "prestige": "80",
           "hexColor": "#7A0019"
@@ -1086,7 +1111,12 @@
             "USC"
           ],
           "rivalryNames": {
-            "USC": ""
+            "USC": "The Jeweled Shillelagh",
+					"rival": [
+            "UM"
+          ],
+          "rivalryNames": {
+            "UM": ""
           },
           "prestige": "90",
           "hexColor": "#0C2340"
